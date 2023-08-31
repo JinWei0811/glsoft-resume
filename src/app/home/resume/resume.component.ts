@@ -13,8 +13,8 @@ export class ResumeComponent implements OnInit {
   jobsEnglish: Job[];
 
   public headEnglish: any = {
-    title: 'RESUME',
-    subtitle: '學歷/經歷',
+    title: '學歷/經歷',
+    subtitle: '',
   };
   public head: any = this.headEnglish;
 
